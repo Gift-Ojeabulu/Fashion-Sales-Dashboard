@@ -1,3 +1,5 @@
+An Interactive Fashion Sales dashboard I built-in Microsoft Excel. I built 2 different Dashboard, Where I Use the Kiss method for the 2nd dashboard and follow Appropriate Data visualization rule to Make Dashboard Easier to understand at a glance.
+
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Fashion-Sales%20Dashboard&fontSize=60)
 
