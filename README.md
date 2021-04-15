@@ -13,8 +13,6 @@ An Interactive Fashion Sales dashboard built with Microsoft Excel. I built 2 dif
 * [FIRST DASHBOARD ON LINKEDIN](https://www.linkedin.com/posts/gift-ojabu_dataanalysis-datavisualization-exceldashboards-activity-6744913940469317632-mlQS)
 
 
-![](https://github.com/Gift-Ojeabulu/Fashion-Sales-Dashboard/blob/main/MyDashboardWasFeatured.JPG)
-
 
 BASE ENVIRONMENT
 
